@@ -3,9 +3,10 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 100vh;
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(189, 189, 189);    
+    font-size: 14px;
+    background-color: #f5f6fa;
 }
 
 .card{
